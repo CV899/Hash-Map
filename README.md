@@ -1,2 +1,2 @@
 # Hash-Map
-Hash map and hash function implementation
+My attempt at implementing Cuckoo hashing
